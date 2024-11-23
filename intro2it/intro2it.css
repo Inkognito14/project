@@ -1,0 +1,72 @@
+*{
+    background-color: DarkKhaki ;
+}
+
+.aboutme{
+    color: DodgerBlue;
+    font-family: 'Verdana';
+    font-size: 60px;
+}
+
+.dota2{
+    color: Gold;
+}
+
+.Myclass{
+    color: DodgerBlue;
+    font-family: 'Verdana';
+}
+
+.class{
+    font-family: 'Comic Sans MS';
+    font-size: 20px;
+    line-height: 0.1; 
+  
+}
+
+.info{
+    color: DodgerBlue;
+    font-family: 'Verdana';
+}
+
+
+
+.Anime {
+    font-family: 'Comic Sans MS';
+    font-size: 20px;
+    line-height: 1.5; 
+}
+
+.photo {
+    display: flex;
+    gap: 10px;
+     
+}
+.image {
+    display: flex;
+
+}
+img {
+    width: 375px;
+    height: auto; 
+}
+
+.text {
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.button_style{
+     background-color: rgb(165, 43, 43); 
+     font-size: 60px;
+     transition: background-color 0.3s, transform 0.2s;
+     cursor: pointer; 
+     border-radius: 30px;
+     border: none;
+     padding: 5px 10px;
+     color: white;
+     font-weight: bold;
+}
+.button_style:active {
+    transform: scale(0.95);
+}
